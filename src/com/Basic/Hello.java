@@ -1,5 +1,7 @@
 package com.Basic;
 
 public class Hello {
-	public static void 
+	void print() {
+		System.out.println("Hello");
+	}
 }
